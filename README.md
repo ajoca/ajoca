@@ -3,7 +3,7 @@
 - 👀 I’m interested in developing cutting-edge software solutions and exploring the latest technologies.
 - 🌱 I’m currently learning advanced C#, SQL, and mobile app development with React Native.
 - 💞️ I’m looking to collaborate on projects involving AR, AI integration, and innovative mobile applications.
-- 📫 How to reach me: You can contact me through my email at [your email] or connect with me on [LinkedIn profile link].
+- 📫 How to reach me: You can contact me through my email at canto9400@gmail.com or connect with me on https://www.linkedin.com/in/alan-canto-0b99291a1/.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm passionate about creating AR glasses that allow seamless interaction with AI, bringing futuristic technology into everyday life.
 
