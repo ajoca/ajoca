@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects involving AR, AI integration, and innovative mobile applications.
 - 📫 How to reach me: You can contact me through my email at canto9400@gmail.com or connect with me on https://www.linkedin.com/in/alan-canto-0b99291a1/.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm passionate about creating AR glasses that allow seamless interaction with AI, bringing futuristic technology into everyday life.
+- ⚡ Fun fact: 
 
 <!---
 ajoca/ajoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
