@@ -11,7 +11,7 @@
 ## 🧠 Tecnologías y herramientas que utilizo
 
 ### 👨‍💻 Lenguajes de programación
-- Java · JavaScript · TypeScript · C# · Python (básico) · PHP · SQL · HTML · CSS
+- Java · JavaScript · TypeScript · C# · Python (básico) · PHP · 
 
 ### 🌐 Desarrollo Frontend
 - React.js · React Native · Angular (básico) · Tailwind CSS · Bootstrap · Styled Components · Vite
@@ -59,5 +59,5 @@
 
 ---
 
-> “La mejor forma de predecir el futuro es construirlo.” – Alan Kay 🚀
+> “La mejor forma de predecir el futuro es construirlo.” – 🚀
 
