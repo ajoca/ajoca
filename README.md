@@ -70,7 +70,6 @@
 Here are some of my public repositories:
 
 - [**PetAdoption**](https://github.com/ajoca/PetAdoption) — Pet adoption platform with backend and frontend.
-- [**Finding Animals**](https://github.com/ajoca/Finding-Animals) — Lost & adoption animal tracking app.
 - [**Gimnasio24**](https://github.com/ajoca/Gimnasio24) — Gym management system with C# and SQL Server.
 - [**Hotel Reservation System**](https://github.com/ajoca/HotelReservations) — Full hotel booking management system.
 - [**Game Store**](https://github.com/ajoca/GameStore) — Online video game store with cart and admin panel.
