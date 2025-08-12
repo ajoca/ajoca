@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: **Analista Programador** — Instituto Tecnológico CTC Colonia, Uruguay  
+- :school: **Analista Programador** — Instituto Tecnológico CTC (Universidad Claeh) Colonia, Uruguay  
 - :technologist: I love creating **innovative digital solutions** for real-world problems.  
 - :man_technologist: Experience in **Web**, **Mobile** & **Desktop Applications**.  
 - :dart: Always exploring **new technologies** and improving my skills.  
