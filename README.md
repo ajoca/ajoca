@@ -74,6 +74,10 @@ Here are some of my public repositories:
 - [**Hotel Reservation System**](https://github.com/ajoca/HotelReservations) — Full hotel booking management system.
 - [**Game Store**](https://github.com/ajoca/GameStore) — Online video game store with cart and admin panel.
 - [**CTC Gym Mobile**](https://github.com/ajoca/CTCGymMobile) — React Native app for gym routines.
+Páginas Web realizadas.
+https://videsol.com/
+https://konifan.com/
+https://www.vipercar.com.uy/
 
 *(More on my [repositories page](https://github.com/ajoca?tab=repositories))*
 
