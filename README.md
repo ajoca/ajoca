@@ -70,10 +70,9 @@
 Here are some of my public repositories:
 
 - [**PetAdoption**](https://github.com/ajoca/PetAdoption) — Pet adoption platform with backend and frontend.
-- [**Gimnasio24**](https://github.com/ajoca/Gimnasio24) — Gym management system with C# and SQL Server.
-- [**Hotel Reservation System**](https://github.com/ajoca/HotelReservations) — Full hotel booking management system.
-- [**Game Store**](https://github.com/ajoca/GameStore) — Online video game store with cart and admin panel.
-- [**CTC Gym Mobile**](https://github.com/ajoca/CTCGymMobile) — React Native app for gym routines.
+- [**Hotel Reservation System**]((https://github.com/ajoca/DDA)) — Full hotel booking management system.
+- [**Game Store**](https://github.com/ajoca/Game-Shop) — Online video game store with cart and admin panel.
+- [**CTC Gym Mobile**](https://github.com/ajoca/Gimnasioctc) — React Native app for gym routines.
 
 
 Páginas Web realizadas.
